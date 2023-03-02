@@ -16,6 +16,8 @@ public class application {
                 "merged to master" );
         
         System.out.println("pull from github" );
+        System.out.println("push master" );
+
 
 
     }
